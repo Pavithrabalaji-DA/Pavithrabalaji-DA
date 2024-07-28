@@ -103,24 +103,3 @@
 
 </div>
 
-## 🔝 Top Repositories
-<div align = "center">
-<a href="https://github.com/Annarhysa/BudgetBud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=BudgetBud&theme=transparent" />
-</a>
-<a href="https://github.com/Annarhysa/Stock-Market-Advisor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Stock-Market-Advisor&theme=transparent" />
-</a>
-<a href="https://github.com/Annarhysa/Code-Translator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Code-Translator&theme=transparent" />
-</a>
-<a href="https://github.com/Annarhysa/CareerWise">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=CareerWise&theme=transparent" />
-</a>
-</div>
-
-<!---
-Annarhysa/Annarhysa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
