@@ -11,7 +11,7 @@
   🤖 Currently practising Machine Learning and its applications\
   🫂 Looking for a collaborator on DS and MLops projects\
   📖 I'm looking for internship opportunities in AI, ML & DL fields\
-  📫 pavithrabalaji@gmail.com\
+  📫 pavithrabalajie@gmail.com\
   
 
   </div>
