@@ -24,7 +24,7 @@
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://linktr.ee/anna_albert">
+  <a href="https://linktr.ee/Iampavithrabalaji">
    <img src="https://img.shields.io/badge/Linktree-acdc5c?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree Badge"/>
   </a>
   <a href="https://discord.com/channels/@me/1084779154106494987">
