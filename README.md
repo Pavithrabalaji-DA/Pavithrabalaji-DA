@@ -78,17 +78,4 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow.svg?style=for-the-badge&logo=HuggingFace&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-grey.svg?style=for-the-badge&logo=NLTK&logoColor=white)
 
-[![Annarhysa's GitHub | Dependencies](https://stats.quine.sh/Annarhysa/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Annarhysa) 
-
-</div>
-
-
-## 📈 Profile Stats
-<div align = "center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Annarhysa&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annarhysa&layout=compact&theme=transparent&hide_border=true)](https://github.com/Annarhysa/github-readme-stats)
-
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annarhysa&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/Annarhysa)
-
-</div>
 
