@@ -1,81 +1,51 @@
-<h1> Hey, I’m Pavithra balaji </h1>
+<h1 align="center" style="color:#ffffff;">
+  PAVITHRA BALAJI
+</h1>
 
-<img src="https://cdn3d.iconscout.com/3d/premium/thumb/female-developer-5359992-4492091.png?f=webp" width="32%" alt="vector" align="right"> 
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Analyst+👩‍🔬;Up+and+Coming+Analyst+📊;Coder+💻;)](https://git.io/typing-svg)
+### 👋 Self Introduction:
 
-<img src="https://komarev.com/ghpvc/?username=Annarhysa&style=flat-square&color=blue" alt="Profile views"/>
-<div align = "left">
-  
-  👀 I am an Artificial Intelligence and Data Science enthusiast\
-  🤖 Currently practising Machine Learning and its applications\
-  🫂 Looking for a collaborator on DS and MLops projects\
-  📖 I'm looking for internship opportunities in AI, ML & DL fields\
-  📫 pavithrabalajie@gmail.com\
-  
+<p style="font-weight: bold; text-align: justify;">
+Hello! I’m <strong>PAVITHRA BALAJI</strong>, a BCA student at Crescent College with expertise in the <strong>MERN stack</strong>. 
+I’m passionate about <strong>full-stack development</strong> and currently exploring <strong>Data Structures, Algorithms,</strong> and <strong>DevOps</strong>.  
+As a 21-year-old developer from India, I’m eager to contribute to open-source projects and gain internship opportunities to further hone my skills.
+</p>
 
-  </div>
-<br>
-<br>
-<br>
+---
 
-<div id="badges" align = "center">
+### 📬 Contact Me:
 
-  <a href="http://linkedin.com/in/bpavithrabalaji">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://linktr.ee/Iampavithrabalaji">
-   <img src="https://img.shields.io/badge/Linktree-acdc5c?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree Badge"/>
-  </a>
-  
-  
-  
- <!--- <a href="https://www.hackerrank.com/aa17011?hr_r=1">
-    <img src="https://img.shields.io/badge/HackerRank-Green?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
-  </a>
-  <a href="https://www.codechef.com/users/anna_albert21">
-    <img src="https://img.shields.io/badge/Codechef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef Badge"/>
-  </a>) --->
-</div>
+<p align="center">
+  🌐 <a href="https://dhanushkumaramkdev-portfolio.vercel.app/#" style="color: #1DA1F2; font-weight: bold; padding-right: 15px;">Website</a>
+  💼 <a href="https://www.linkedin.com/in/dhanushkumar-amk/" style="color: #0077B5; font-weight: bold; padding-right: 15px;">LinkedIn</a>
+  📧 <a href="mailto:dhanushkumaramk@gmail.com" style="color: #D44638; font-weight: bold; padding-right: 15px;">Email</a>
+  📸 <a href="https://www.instagram.com/dhanuxxsh._.07/" style="color: #E1306C; font-weight: bold; padding-right: 15px;">Instagram</a>
+</p>
 
-<br>
+---
 
-## 👩‍💻 Tech Stack
-### Languages and tools I work with
-<div>
-<img height="55" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="55" alt="cpp" src="images/534-5342172_c-language-course-c-logo-removebg-preview (1).png">
-<img width="75" alt="git" src="./images/git-removebg-preview.png">
-<img height="48" alt="sql" src="./images/sql2-compressed-1-removebg-preview.png">
-<img height="50" alt="c" src="https://fekir.info/img/c-logo.png">
-<img height="53" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png">
-<img height="53" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
-<img height="45" alt="js" src="./images/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files-removebg-preview.png">
-<img height="48" alt="matlab" src="./images/Matlab1-removebg-preview-removebg-preview.png">
-<img height="48" alt="arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"> 
-<img height="60" alt="Java" src="./images/pnghut_java-programmer-computer-programming-logo-language.png">
-<img height="45" alt="figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png"> 
-<img height="55" alt="azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png">
-<img height="45" alt="rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
-</div>
+### 🧰 My Tech Stack for Development:
 
-### Python libraries I expertise in
-<div align = "center">
-  
-![Streamlit](https://img.shields.io/badge/Streamlit-royalblue.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Snowflake](https://img.shields.io/badge/snowflake-blue.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-orange.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![PyPI](https://img.shields.io/badge/PyPI-purple.svg?style=for-the-badge&logo=PyPI&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-red.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-darkpink.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![SymPy](https://img.shields.io/badge/SymPy-teal.svg?style=for-the-badge&logo=Sympy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-coral.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow.svg?style=for-the-badge&logo=HuggingFace&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-grey.svg?style=for-the-badge&logo=NLTK&logoColor=white)
+<p>
+  <strong>Web Development:</strong> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Tailwind CSS</code> <code>React</code> <code>Node.js</code> <code>Express.js</code> <code>Mongoose</code><br><br>
 
+  <strong>Languages:</strong> <code>JavaScript</code> <code>Java</code> <code>MongoDB</code> <code>Go</code> <code>TypeScript</code><br><br>
+
+  <strong>IDEs & Tools:</strong> <code>VS Code</code> <code>IntelliJ IDEA</code> <code>Mongoose Shell</code> <code>Project IDX</code><br><br>
+
+  <strong>Other Tools:</strong> <code>MS Office</code> <code>Notion</code> <code>Canva</code> <code>Figma</code> <code>Git</code> <code>GitHub</code> <code>Docker</code> <code>YAML</code> <code>AWS</code>
+</p>
+
+---
+
+### 💡 Extra Information About Me & My Desktop:
+
+1. 🖥️ <strong>Check out my</strong> <a href="https://github.com/dhanushkumar-amk/MY-VS-Code-settings">VSCode Configuration</a> <strong>for optimized development setup.</strong><br>
+2. 📚 <strong>Currently learning:</strong> <code>Data Structures & Algorithms</code> | <code>DevOps</code><br>
+3. 🦖 <strong>Favorite anime:</strong> Pokémon<br>
+4. 🏗️ <strong>Working on:</strong> *Airbnb Clone*<br>
+5. 💻 <strong>Love to code and explore new tech every day.</strong>
+
+---
 
