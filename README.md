@@ -40,11 +40,10 @@ As a 21-year-old developer from India, I’m eager to contribute to open-source 
 
 ### 💡 Extra Information About Me & My Desktop:
 
-1. 🖥️ <strong>Check out my</strong> <a href="https://github.com/dhanushkumar-amk/MY-VS-Code-settings">VSCode Configuration</a> <strong>for optimized development setup.</strong><br>
-2. 📚 <strong>Currently learning:</strong> <code>Data Structures & Algorithms</code> | <code>DevOps</code><br>
-3. 🦖 <strong>Favorite anime:</strong> Pokémon<br>
-4. 🏗️ <strong>Working on:</strong> *Airbnb Clone*<br>
-5. 💻 <strong>Love to code and explore new tech every day.</strong>
+1. 📚 <strong>Currently learning:</strong> <code>Data Structures & Algorithms</code> | <code>DevOps</code><br>
+2. 🦖 <strong>Favorite anime:</strong> Pokémon<br>
+3. 🏗️ <strong>Working on:</strong> *Airbnb Clone*<br>
+4. 💻 <strong>Love to code and explore new tech every day.</strong>
 
 ---
 
