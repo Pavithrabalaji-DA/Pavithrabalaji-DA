@@ -17,10 +17,9 @@ As a 21-year-old developer from India, I’m eager to contribute to open-source 
 ### 📬 Contact Me:
 
 <p align="center">
-  🌐 <a href="https://dhanushkumaramkdev-portfolio.vercel.app/#" style="color: #1DA1F2; font-weight: bold; padding-right: 15px;">Website</a>
-  💼 <a href="https://www.linkedin.com/in/dhanushkumar-amk/" style="color: #0077B5; font-weight: bold; padding-right: 15px;">LinkedIn</a>
-  📧 <a href="mailto:dhanushkumaramk@gmail.com" style="color: #D44638; font-weight: bold; padding-right: 15px;">Email</a>
-  📸 <a href="https://www.instagram.com/dhanuxxsh._.07/" style="color: #E1306C; font-weight: bold; padding-right: 15px;">Instagram</a>
+  💼 <a href="https://www.linkedin.com/in/bpavithrabalaji/" style="color: #0077B5; font-weight: bold; padding-right: 15px;">LinkedIn</a>
+  📧 <a href="mailto:pavithrabalajie@gmail.com" style="color: #D44638; font-weight: bold; padding-right: 15px;">Email</a>
+
 </p>
 
 ---
